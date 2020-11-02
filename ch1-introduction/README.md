@@ -29,4 +29,4 @@ In robotics, two important branches are (1) state estimation and (2) control. Th
 
 Bayes' rule, derived from joint probability definition:
 
-![equation](https://latex.codecogs.com/png.latex?p%28x%2C%20y%29%3Dp%28x%7Cy%29p%28y%29%20%3D%20p%28y%7Cx%29p%28x%29)
+![equation](https://latex.codecogs.com/svg.latex?p%28x%2C%20y%29%3Dp%28x%7Cy%29p%28y%29%20%3D%20p%28y%7Cx%29p%28x%29)
