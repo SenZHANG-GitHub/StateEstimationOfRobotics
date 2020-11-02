@@ -37,6 +37,9 @@ Some key notations in Bayesian inference:
 +   **prior**: p(x)
 +   **posterior**: p(x|y)
 
+# How should I organize?
++   Not cover everything from beginning to end
++   Instead, focus on the methods directly, e.g. SVO, DSO, DSM, ORB-SLAM, and then reference to certain topics if necessary, then we only cover those needed in the references in detail
 
 
 
