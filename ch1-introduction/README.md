@@ -9,10 +9,10 @@ In robotics, two important branches are (1) state estimation and (2) control. Th
     +   **Accelerometer** -> translation acceleration
     +   **Gyroscope** -> angular rate
     +   **Wheel odometer** -> angular rate
-    +   **IMU** 3 linear accelerometers and 3 rate gyros
+    +   **IMU** -> 3 linear accelerometers and 3 rate gyros
 +   Exteroceptive (stimuli received by an organism from outside - position and orientation)
     +   **Cameras**
-    +   Time-of-flight transmitter / receiver (**laser**, **GPS**)
+    +   Time-of-flight transmitter / receiver -> **laser**, **GPS**
 
 # Other books
 +   ***Probabilistic Robotics (2006) by Thrun***
