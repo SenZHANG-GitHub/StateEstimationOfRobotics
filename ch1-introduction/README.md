@@ -28,6 +28,4 @@ In robotics, two important branches are (1) state estimation and (2) control. Th
 # Probability Preliminary
 
 Bayes' rule, derived from joint probability definition:
-$$
-p(x, y) = p(x|y)p(y) = p(y|x)p(x) \rightarrow p(x|y) = \frac{p(y|x)p(x)}{p(y)} = \frac{p(y|x)p(x)}{\int p(y|x)p(x)dx}
-$$
+![](http://latex.codecogs.com/gif.latex?p(x, y) = p(x|y)p(y) = p(y|x)p(x) \rightarrow p(x|y) = \frac{p(y|x)p(x)}{p(y)} = \frac{p(y|x)p(x)}{\int p(y|x)p(x)dx})
