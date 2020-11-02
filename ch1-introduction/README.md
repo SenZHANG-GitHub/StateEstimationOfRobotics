@@ -33,6 +33,10 @@ Bayes' rule, derived from joint probability definition:
 
 ![equation](https://latex.codecogs.com/svg.latex?p%28x%7Cy%29%20%3D%20%5Cfrac%7Bp%28y%7Cx%29p%28x%29%7D%7Bp%28y%29%7D%3D%5Cfrac%7Bp%28y%7Cx%29p%28x%29%7D%7B%5Cint%20p%28y%7Cx%29p%28x%29dx%7D)
 
+Some key notations in Bayesian inference:
++   **prior**: p(x)
++   **posterior**: p(x|y)
+
 
 
 
